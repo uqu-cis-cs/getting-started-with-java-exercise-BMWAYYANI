@@ -11,10 +11,12 @@ package edu.uqu.cs;
  *      b.	Change <Student ID> to your student ID
  */
  
-class App
-{
-   public static void main(String[] args) 
+public class App
+ {
+
+public static void main(String[] args) 
     {
         System.out.println( "Hello: Bassam, 443010573" );
+    }
 }
-}
+    
